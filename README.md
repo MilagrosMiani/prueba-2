@@ -1,3 +1,3 @@
 # prueba-2
-clasr
+clase
 hola este es el cambio
